@@ -1,0 +1,6 @@
+{
+  "name": "Riya - Happequity Assistant",
+  "description": "An interactive lead generation chatbot named Riya from Happequity that answers basic investing queries and captures hot leads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
